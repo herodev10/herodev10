@@ -2,7 +2,21 @@
 
 **`Desenvolvedor FullStack`**
 
-Me chamo BigHERO Dev, tenho 25 anos e sou natural do Rio Grande do Sul. Concluí o ensino médio no IFRS, com o curso técnico em informática. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na PUCRS. Sou apaixonada por tecnologia e compartilho meu conhecimento através do meu canal no YouTube "[BigHERO Dev](https://www.youtube.com/@herodev10)", onde ensino a criar projetos web, e também através do Instagram, com o perfil chamado "[Dev em Dev](https://www.instagram.com/dev_em_dev/)".
+👨‍💻 Sobre mim — BigHERO Dev | Desenvolvedor Full-Stack.
+
+Sou o Gabriel Dev, desenvolvedor Full-Stack com paixão por transformar ideias em soluções digitais robustas e eficientes. Atuo no desenvolvimento de aplicações web completas, com domínio tanto no front-end quanto no back-end, utilizando tecnologias modernas como JavaScript, React, Node.js, TypeScript, HTML, CSS, além de experiência com bancos de dados relacionais e não relacionais.
+Tenho um perfil curioso, autodidata e comprometido com a qualidade do código, boas práticas e performance. Gosto de trabalhar em equipe, contribuir com soluções criativas e aprender constantemente para evoluir como profissional.
+Busco oportunidades para crescer na área de tecnologia, participando de projetos desafiadores que impactem positivamente a vida das pessoas por meio da inovação.
+
+🚀 Principais habilidades:
+Desenvolvimento de APIs REST
+Integração com bancos de dados (MySQL, MongoDB)
+Front-end responsivo e acessível
+Git, versionamento e metodologias ágeis
+Deploy e CI/CD
+
+🔎 Em constante evolução, sempre estudando novas tecnologias e acompanhando tendências do mercado para entregar o melhor resultado.
+Se quiser, posso adaptar com base no seu stack atual, projetos específicos ou experiências anteriores. Quer que eu inclua algo mais pessoal, como seu objetivo profissional ou trajetória até aqui?.
 
 <p align="left">
     <a href="https://www.youtube.com/@herodev10?sub_confirmation=1">
@@ -166,7 +180,11 @@ Me chamo BigHERO Dev, tenho 25 anos e sou natural do Rio Grande do Sul. Concluí
     src="https://github-readme-stats.vercel.app/api?username=herodev10&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
   />
     
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=herodev10&layout=compact&langs_count=7&theme=dark&hide=html,css,scss,sass,javascript,shell,procfile,kotlin,dockerfile,solidity,jupyter%20notebook"/>
+<img 
+      align="left" 
+      alt="GitHub Stats" 
+      height="200" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=herodev10&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9"
   />
 
 </p>
