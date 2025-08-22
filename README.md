@@ -5,7 +5,7 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/sujeitoprogramador)
 [![Twitch](https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white)](https://twitch.tv/fragabr)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=herodev10)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=herodev10&show_icons=true&theme=radical)
 
 ## Tecnologias que eu uso no meu dia
 
