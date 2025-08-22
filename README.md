@@ -170,7 +170,7 @@ Me chamo BigHERO Dev, tenho 25 anos e sou natural do Rio Grande do Sul. Concluí
       align="left" 
       alt="GitHub Stats" 
       height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=herodev10&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9"
+     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jmgrd98&layout=compact&langs_count=7&theme=dark&hide=html,css,scss,sass,javascript,shell,procfile,kotlin,dockerfile,solidity,jupyter%20notebook"/>
   />
 
 </p>
