@@ -179,12 +179,21 @@ Se quiser, posso adaptar com base no seu stack atual, projetos específicos ou e
     style="padding-right: 10px;" 
     src="https://github-readme-stats.vercel.app/api?username=herodev10&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
   />
-    
+
 <img 
       align="left" 
       alt="GitHub Stats" 
       height="200" 
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=herodev10&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9"
   />
-
 </p>
+
+   ##
+
+<div align="center"> 
+ <a href="[https://www.linkedin.com/in/gabriel-a-jacome-550aa437b/]" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+ <a href = "mailto:theherodevbr@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=red" target="_blank"></a>
+  
+ <img alt="Snake Animation" src="https://raw.githubusercontent.com/SharaFigueredo/SharaFigueredo/output/github-contribution-grid-snake-dark.svg"/>
+ 
+</div>
